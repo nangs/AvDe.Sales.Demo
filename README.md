@@ -25,7 +25,7 @@ This solution demonstrate the following functionalities:
 
 ## Getting Started
 
-**Note: Build solution and configure it to run multiple projects at the same time like this:**
+**Note: Build solution and configure it to run multiple projects at the same time, like this:**
 
 ![](res/vs_2019_startup.jpg)
 
