@@ -1,16 +1,16 @@
 # AvDe Sale Statistics Demo
 
-This solution demonstrates simple Microservice architecture with Web Client based on the most popular Microsoft technologies at this moment and .Net Core is a perfect choice!
+This solution demonstrates simple Microservice architecture with Web Client based on the most popular Microsoft technologies at this moment and .Net Core is a perfect choice.
 
 This solution demonstrate the following functionalities:
-- Usage of ASP.NET Core REST Api Controllers,
+- Usage of ASP.NET Core REST Api Controllers
 - [ASP.NET Core 3.1 Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio)
 - [Chart.js](https://www.chartjs.org/) flexible JavaScript charting
 - Global Error Handling
 - [Swagger API auto documenting tool](https://swagger.io/)
-- Logging with [Serilog](https://serilog.net/) sink to file,
-- Asynchronous repository Pattern for Entity types,
-- [In-Memory integration tests](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-2.2) with Entity Framework Core,
+- Logging with [Serilog](https://serilog.net/) sink to file
+- Asynchronous repository Pattern for Entity types
+- [In-Memory integration tests](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-2.2) with Entity Framework Core
 - Unit & integration Tests ([xUnit](https://xunit.github.io/))
 
 ## Prerequisites
