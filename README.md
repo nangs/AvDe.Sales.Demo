@@ -39,12 +39,10 @@ For a Web Client are used ASP.NET Core Razor Pages which can make coding page-fo
 
 ![](res/statistics1.jpg)
 
-For Statistics Charts I've used open source [Chart.js](https://www.chartjs.org/) JavaScript charting library:
+For Statistics Charts I've used open source [Chart.js](https://www.chartjs.org/) JavaScript charting library. It's easy to get started with Chart.js. All that's required is the script included in your page along with a single canvas node to render the chart:
 
 ![](res/statistics2.jpg)
 ![](res/statistics3.jpg)
-
-It's easy to get started with Chart.js. All that's required is the script included in your page along with a single canvas node to render the chart.
 
 Have fun!
 
