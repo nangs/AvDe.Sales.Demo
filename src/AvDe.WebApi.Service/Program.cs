@@ -28,7 +28,7 @@ namespace AvDe.WebApi.Service
                 })
                 .CaptureStartupErrors(false)
                 .UseContentRoot(Directory.GetCurrentDirectory())
-                .UseIISIntegration()
+                .UseIIS() // https://dotnetcoretutorials.com/2019/12/25/kestrel-vs-iis/
                 .UseStartup<Startup>()
                 .UseSerilog((hostingContext, loggerConfiguration) => loggerConfiguration
                     .ReadFrom.Configuration(hostingContext.Configuration)
