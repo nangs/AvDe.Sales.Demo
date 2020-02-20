@@ -1,6 +1,6 @@
 # AvDe Sale Statistics Demo
 
-This solution demonstrates simple Microservice architecture with Web Client based on the most popular Microsoft technologies at this moment and .Net Core is a perfect choice.
+This solution demonstrates simple microservice architecture with Web Client based on the most popular Microsoft technologies at this moment and .Net Core is a perfect choice.
 
 This solution demonstrate the following functionalities:
 - Usage of ASP.NET Core REST Api Controllers
@@ -44,7 +44,7 @@ For Statistics Charts I've used open source [Chart.js](https://www.chartjs.org/)
 ![](res/statistics2.jpg)
 ![](res/statistics3.jpg)
 
-Have fun!
+Enjoy!
 
 ## Licence
 Licenced under [MIT](http://opensource.org/licenses/mit-license.php).
