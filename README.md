@@ -35,7 +35,7 @@ REST API is documented with Swagger. It includes a UI to explore and test operat
 ![](res/swagger_ui.jpg)
 
 ## WebApi Razor Client
-For a Web Client are used ASP.NET Core Razor Pages which can make coding page-focused scenarios easier and more productive than using controllers and views:
+For a Web Client I've used ASP.NET Core Razor Pages which can make coding page-focused scenarios easier and more productive than using controllers and views:
 
 ![](res/statistics1.jpg)
 
