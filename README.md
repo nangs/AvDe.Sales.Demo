@@ -6,6 +6,7 @@ This solution demonstrate the following functionalities:
 - Usage of ASP.NET Core REST Api Controllers
 - [ASP.NET Core 3.1 Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio)
 - [Chart.js](https://www.chartjs.org/) flexible JavaScript charting
+- [Bootstrap](https://getbootstrap.com/) for layout and styling
 - Global Error Handling
 - [Swagger API auto documenting tool](https://swagger.io/)
 - Logging with [Serilog](https://serilog.net/) sink to file
